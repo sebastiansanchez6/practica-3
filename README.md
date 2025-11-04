@@ -149,9 +149,3 @@ Si la fuente no está disponible, se usa una fuente por defecto (puede variar el
   ```
 
 ---
-
-## 📜 Licencia
-
-Este proyecto se entrega con fines **académicos** para la práctica de análisis de contratos y validación de cadenas FEN en Python.
-
----
